@@ -208,8 +208,8 @@
   width: 325px;
   position: absolute;
   margin: 0 !important;
-  right: -269px;
-  bottom: -152px;
+  right: -267px;
+  bottom: -164px;
   object-fit: contain;
   z-index: 2;
 }
@@ -1126,7 +1126,7 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
-  
+  border-bottom:1px solid black ;
 }
 .content {
   align-self: stretch;

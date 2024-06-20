@@ -199,8 +199,8 @@
   width: 325px;
   position: absolute;
   margin: 0 !important;
-  right: -269px;
-  bottom: -152px;
+  right: -267px;
+  bottom: -164px;
   object-fit: contain;
   z-index: 2;
 }
@@ -1138,6 +1138,7 @@
   padding: 98px 20px;
   box-sizing: border-box;
   gap: 80px;
+  border: 1px solid black;
   background-image: url(./public/p.svg);
   background-size: cover;
   background-repeat: no-repeat;
@@ -1590,7 +1591,7 @@
 }
 .room-container {
         width: 390px;
-        padding: 2px;
+        padding: 10px;
         border: 0;
         border-radius: 20px;
         background-color: transparent;
@@ -1619,10 +1620,8 @@
         text-align: left;
         display: inline-block;
         min-width: 250px;
-        padding: 0;
         z-index: 1;      
         padding: 10px;
-        margin-bottom: 10px;
         border: 1px solid #ccc;
         border-radius: 20px;
       }

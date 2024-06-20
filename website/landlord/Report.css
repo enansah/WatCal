@@ -2434,11 +2434,14 @@
   .report-page-desktop {
     width: 100%;
     position: relative;
-    background-color: #1a1a1a;
     overflow: hidden;
     align-items: flex-end;
     padding: 50px 0 0;
-    gap: 78.5px;
+    gap: 134.5px;
+    background-image: url(./public/paper.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
     line-height: normal;
     letter-spacing: normal;
   }
